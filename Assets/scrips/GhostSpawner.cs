@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class AsteroidSpawner : MonoBehaviour
+public class GhostSpawner : MonoBehaviour
 {
     public GameObject asteroidPrefab;
 
